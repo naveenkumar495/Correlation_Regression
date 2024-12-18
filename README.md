@@ -1,3 +1,13 @@
+# EXP-3
+# 26-10-2024
+# Name : M NAVEEN KUMAR
+# REG : 24900580
+
+
+
+
+
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -24,6 +34,10 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
+# Output 
+
+![WhatsApp Image 2024-12-10 at 20 37 37_d5ce57f0](https://github.com/user-attachments/assets/5e507433-dd76-40fd-8424-f85ab3d2d005)
+
 # Result
 
-# Output 
+The correction and regression for data analysis of objects from feeder using probability distribution are calculated
